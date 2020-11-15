@@ -1,0 +1,24 @@
+html {
+    position: relative;
+    min-height: 100%; }
+  
+  body {
+    background-color: #2e4358;
+    margin-bottom: 60px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; }
+
+  h1 {
+    color: #da6517;
+    border-color: #da6517;
+    font-size: 4em;
+    margin-bottom: 1em; }
+  
+  .btn {
+    background-color:#2e4358;
+    color:#da6517;
+    border-color: #da6517;
+    border: 1px solid; }
+    .btn:hover {
+      background-color:#2e4358;
+      border-color: #da6517;
+      color: #da6517; }
